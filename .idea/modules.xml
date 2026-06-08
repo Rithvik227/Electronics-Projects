@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Apigee_Test/Apigee_Test.iml" filepath="$PROJECT_DIR$/../Apigee_Test/Apigee_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Electronic-Biomedical-Projects.iml" filepath="$PROJECT_DIR$/.idea/Electronic-Biomedical-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Phase1_PatientInterface/Java/Phase1_Java.iml" filepath="$PROJECT_DIR$/Phase1_PatientInterface/Java/Phase1_Java.iml" />
+    </modules>
+  </component>
+</project>
