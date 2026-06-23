@@ -154,6 +154,8 @@ void loop() {
             } else {
                 randomBlinkInterval = 0;
                 blinkCount = 0;
+                blinkPeriod = 0;
+                targetBlinks = 0;
                 blinkState = false;
                 LED.clear();
                 Serial.println("The Reaction Time Test has begun. Press the red button.");
