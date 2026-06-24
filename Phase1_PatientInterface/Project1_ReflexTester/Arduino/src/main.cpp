@@ -3,7 +3,7 @@
  * Project 1: Hardware-Debounced Neurological Reflex Tester (NRT-1)
  * Phase 1 - Summer 2026 Engineering Master Plan
  * * Author: Rithvik
- * Date: June 2026
+ * Date: June 2026 
  * * Description:
  * A bare-metal, heap-free C++ implementation of a clinical-grade reaction
  * time tester. Utilizes the ATmega328P 16-bit Hardware Timer 1 (1024 prescaler)
