@@ -21,8 +21,6 @@ blocking OS timers to match the exact embedded C++ Finite State Machine architec
 """
 
 from abc import ABC, abstractmethod
-# ... rest of your imports and code ...
-from abc import ABC, abstractmethod
 from enum import Enum
 import time
 import keyboard
