@@ -1,6 +1,6 @@
 # Electronics and Embedded Systems Portfolio
 
-**Author:** Rithvik Godishala  
+**Author:** Rithvik G  
 
 **Development Environment:** JetBrains (CLion, PyCharm, IntelliJ) | Nobara Linux  
 
