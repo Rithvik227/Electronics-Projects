@@ -1,5 +1,7 @@
 # Electronic Engineering/Biotech Projects
+
 **Author:** Rithvik Godishala
+
 **Environment:** JetBrains (CLion, PyCharm, IntelliJ) | Nobara Linux
 
 This repository contains bare-metal and Object-Oriented software architectures for various hardware electronics and biomedical engineering projects. 
