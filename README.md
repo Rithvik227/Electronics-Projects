@@ -9,7 +9,7 @@ This repository contains bare-metal and Object-Oriented software architectures f
 ## Engineering Documentation & Media Gallery
 All physical circuit demonstrations, schematics, and engineering notebook pages (including all calculations and analyses) are stored in a centralized gallery.
 
-[Click here to browse the Engineering Notebook & Circuit Gallery](./documentation/)
+[Click here to browse the Engineering Notebook & Circuit Gallery](./Documentation/)
 
 ---
 
